@@ -1,0 +1,5 @@
+
+---commands in terminal----
+nodemon .\index.js
+cd BackEnd
+cd ../ 

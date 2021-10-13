@@ -1,0 +1,23 @@
+ Install -  (npm i react-router-dom concurrently)  for run both backend and frontend.
+  (npm run both)
+
+  For React app we need most of the time State and component.
+
+  use location hook from react router.
+
+  rafce is shortcut for making a component.
+
+   We use font awesome for icon like delete,edit etc.
+
+   For API call i have to use Fetch API.(search in google fetch with headers.)
+
+
+
+1.Express node js
+2.Bootstrap
+3.mongoose
+4.React router
+5.Edit icon
+6.using fetch
+7.express cors
+8.node js
